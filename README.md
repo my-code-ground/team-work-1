@@ -8,7 +8,7 @@
 - Milinda Karunarathne
 
 ### Version
-0.3.0
+0.5.0
 
 ### License
 Copyright &copy; 2025 DEP13. All Rights Reserved.
